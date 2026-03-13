@@ -127,7 +127,7 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** Mafalitso Nyirenda
+**Name:** Madalitso Nyirenda
 **Student ID:** 2021502597
 **Design Theme:** This portfolio uses a clean, modern, and minimal design focused on readability and simplicity. 
 The layout follows a mobile-first responsive approach using CSS Grid and Flexbox. 
@@ -149,7 +149,7 @@ To solve this, I applied a mobile-first design approach and used CSS Grid and Fl
 Another challenge was managing consistent styling across different sections of the website. I solved this by using CSS Custom Properties (variables) to define colors, spacing, and typography so that the design remained consistent throughout the project.
 
 ### Credits
-Some images used in the project are placeholder images sourced from free image platforms such as Unsplash and are used for educational purposes.
+Some images used in the project are placeholder images sourced from free image platforms and are used for educational purposes.
 
 All styling and layout implementation were created manually using HTML and CSS without the use of external frameworks.
 
