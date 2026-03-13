@@ -127,9 +127,12 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** Mafalitso Nyirenda
+**Student ID:** 2021502597
+**Design Theme:** This portfolio uses a clean, modern, and minimal design focused on readability and simplicity. 
+The layout follows a mobile-first responsive approach using CSS Grid and Flexbox. 
+The color scheme uses a primary blue accent combined with neutral backgrounds to 
+create a professional developer portfolio suitable for showcasing projects and skills.
 
 ### CSS Techniques Used
 - [ ] CSS Custom Properties
@@ -139,10 +142,16 @@ Before submitting, verify:
 - [ ] Other: _______________
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+One challenge I encountered was implementing responsive layouts that work well on different screen sizes. Initially, some sections of the page did not align properly when the browser width changed.
+
+To solve this, I applied a mobile-first design approach and used CSS Grid and Flexbox to control the layout. Media queries were then added at tablet and desktop breakpoints to adjust the grid columns and spacing.
+
+Another challenge was managing consistent styling across different sections of the website. I solved this by using CSS Custom Properties (variables) to define colors, spacing, and typography so that the design remained consistent throughout the project.
 
 ### Credits
-[List any images, fonts, or resources used with attribution]
+Some images used in the project are placeholder images sourced from free image platforms such as Unsplash and are used for educational purposes.
+
+All styling and layout implementation were created manually using HTML and CSS without the use of external frameworks.
 
 ---
 

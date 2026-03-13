@@ -361,6 +361,11 @@ ul {
 
 .project-card img {
     /* TODO: Project image */
+    width:100%;
+    height:auto;
+    border-top-left-radius:var(--border-radius);
+    border-top-right-radius:var(--border-radius);
+    object-fit:cover;
 }
 
 .project-card__content {
@@ -463,6 +468,11 @@ ul {
 
 .footer .container {
     /* TODO: Footer layout (Flexbox) */
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    gap:var(--spacing-sm);
 }
 
 .footer__social {
@@ -480,6 +490,9 @@ ul {
 
 .footer__social a:hover {
     /* TODO: Social link hover */
+    color: var(--color-secondary);
+    text-decoration: underline;
+    transition: var(--transition-fast);
 }
 
 /* ============================================================
